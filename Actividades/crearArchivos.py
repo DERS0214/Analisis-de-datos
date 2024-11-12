@@ -23,13 +23,13 @@ file_path_10000 = 'arc5.txt'
 file_path_20000 = 'arc6.txt'
 
 with open(file_path_100, 'w') as file:
-    file.write(numeros_str_5000)
+    file.write(numeros_str_100)
 
 with open(file_path_500, 'w') as file:
-    file.write(numeros_str_10000)
+    file.write(numeros_str_500)
 
 with open(file_path_1000, 'w') as file:
-    file.write(numeros_str_20000)
+    file.write(numeros_str_1000)
 
 with open(file_path_5000, 'w') as file:
     file.write(numeros_str_5000)
