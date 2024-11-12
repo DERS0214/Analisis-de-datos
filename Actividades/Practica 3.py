@@ -23,19 +23,19 @@ def leerArchivo(filename):
         data = file.read().split()
         return list(map(int, data))
 
-filename = "arc3.txt"
+filename = "arc4.txt"
 
 # Leer los datos desde el archivo
 arr = leerArchivo(filename)
 
+n = len(arr)
 # Medir el tiempo de ejecución del algoritmo
 start_time = time.time()  # Hora de inicio
-n = len(arr)
 stoogesort(arr, 0, n - 1)  # Llamada al algoritmo Stoogesort
 end_time = time.time()  # Hora de fin
-
 # Mostrar el arreglo ordenado
-print("Arreglo ordenado:")
+
+print("Arreglo de tamaño: ",n)
 for num in arr:
     print(num, end=' ')
 

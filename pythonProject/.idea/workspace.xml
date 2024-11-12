@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5efda7f-7d03-4030-9c73-30da1b246342" name="Changes" comment="" />
+    <list default="true" id="e5efda7f-7d03-4030-9c73-30da1b246342" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Actividades/Practica 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Actividades/Practica 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Practica 3.executor": "Run",
     "Python.crearArchivos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
